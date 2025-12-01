@@ -9,7 +9,6 @@ My multidisciplinary background allows me to connect **hardware**, **software**,
 I organize my work in **three main categories** to make my GitHub easy to navigate:
 
 Each project includes documentation, clean code, and when available:  
-📄 Detailed report • 📝 Instructor feedback • ⭐ Final grade
 
 ---
 
