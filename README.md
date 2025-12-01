@@ -18,15 +18,15 @@ Projects in **Deep Learning, Computer Vision, Machine Learning, and Data Analysi
 ### 🔍 Computer Vision Projects
 
 - **Brain Tumor Detection** — CNN-based tumor detection with multiple model comparisons.  
-  🔗 [<GitHub link>](https://github.com/yasmin-nabli/Computer-Vision)
+  🔗 https://github.com/yasmin-nabli/Computer-Vision
 
 ### 📊 Data Analysis & ML Projects
 
 - **Data Analysis Covid19** — Cleaning, visualization, and insights from Covid19 dataset.  
-  🔗 [<GitHub link>](https://github.com/yasmin-nabli/ML-DataAnalysis/tree/main/Data-Analysis)
+  🔗 https://github.com/yasmin-nabli/ML-DataAnalysis/tree/main/Data-Analysis
 
 - **ML Classification & Linear Regression** — Model comparison for classification and regression tasks.  
-  🔗 [<GitHub link>](https://github.com/yasmin-nabli/ML-DataAnalysis/tree/main/ML)
+  🔗 https://github.com/yasmin-nabli/ML-DataAnalysis/tree/main/ML
 
 ➡️ *More AI projects coming soon (uploaded progressively)*
 
