@@ -59,13 +59,6 @@ Frontend projects, technical test solutions, and company work.
 # 🔧 Embedded Systems & Embedded Linux Projects  
 Projects in progress — will be uploaded and documented clearly.
 
-
-➡️ *I will organize each embedded project with:*  
-✔ Clean code  
-✔ README explanation  
-✔ Hardware setup  
-✔ Demo (if available)
-
 ---
 
 # 🛠 Skills & Tools
