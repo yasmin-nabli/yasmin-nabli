@@ -57,8 +57,10 @@ Frontend projects, technical test solutions, and company work.
 ---
 
 # 🔧 Embedded Systems & Embedded Linux Projects  
-Projects in progress — will be uploaded and documented clearly.
+- **AHT10 Linux IOT Gateway** — A professional-grade IoT Edge Gateway solution for local climate monitoring..  
+  🔗 https://github.com/yasmin-nabli/AHT10-Linux-IIO-Gateway
 
+  ➡️ *More projects coming soon (uploaded progressively)*
 ---
 
 # 🛠 Skills & Tools
